@@ -23,7 +23,6 @@
   "author": "nondanee",
   "license": "MIT",
   "dependencies": {
-    "",
   },
   "publishConfig": {
     "access": "public"
