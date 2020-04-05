@@ -8,7 +8,7 @@
   },
   "scripts": {
     "pkg": "pkg . --out-path=dist/",
-    "start": "node app.js -a 127.0.0.1 -p 30001 -s"
+    "start": "node app.js -a 127.0.0.1 -s"
   },
   "pkg": {
     "assets": [
