@@ -8,7 +8,7 @@
   },
   "scripts": {
     "pkg": "pkg . --out-path=dist/",
-    "start": "node app.js -p 8090-e unmrun.herokuapp.com"
+    "start": "node app.js -p 8090 -e unmrun.herokuapp.com"
   },
   "pkg": {
     "assets": [
